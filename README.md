@@ -1,7 +1,9 @@
-cpe490-dns
-==========
+DNSpoof Delivery
+================
 
-Package delivery via DNS spoofing
+What is it?
+-----------
+Proof of concept
 
 ##Server Features
 + Direct Message
@@ -10,5 +12,16 @@ Package delivery via DNS spoofing
 + Chaff delay time
 
 
-##TODO
-Install
+Documentation
+-------------
+
+
+Installation
+------------
+
+Liscensing
+----------
+
+Contacts
+--------
+
