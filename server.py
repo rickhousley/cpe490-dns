@@ -62,10 +62,16 @@ def sendByte(c, targetIP, chaff, randomDelay):
 		/DNS(id=tID, qd=DNSQR(qname=drequest))
 
 	send(spoofPacket, verbose=False)
-	logging.info('Sending packet with ID=%x to Target=%s with domain request=%s', tID, targetIP, drequest)	
+	logging.info("Sending packet: \n"
+				 "   ID=%d \n"
+				 "   checksum=%d \n"
+				 "   target=%s \n"
+				 "	 domain request=%s"
+				 , tID, checksum, targetIP, drequest)	
 
 	#Delay for random amount of time in range randomDelay
-	time.sleep(random.uniform(0,randomDelay))
+	#time.sleep(random.uniform(0,randomDelay))
+	#time.sleep(3)
 
 if __name__ == '__main__':
 	#Generate argparse menu
