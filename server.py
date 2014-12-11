@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+
+"""server.py: DNS as a medium for anonymized package deliver."""
+
+__author__      = "Rick Housley, Frankie Garruzzo, Mike McCarthy"
+__copyright__   = "Copyright 2014"
+
 import sys
 import time
 import random
@@ -71,7 +78,7 @@ def sendByte(c, targetIP, chaff, randomDelay):
 
 	#Delay for random amount of time in range randomDelay
 	#time.sleep(random.uniform(0,randomDelay))
-	#time.sleep(3)
+	time.sleep(3)
 
 if __name__ == '__main__':
 	#Generate argparse menu

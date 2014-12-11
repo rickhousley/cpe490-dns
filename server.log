@@ -975,3 +975,200 @@ INFO:root:Sending packet:
    target=192.168.1.240 
 	 domain request=www.reddit.com
 INFO:root:Direct message send complete
+INFO:root:
+
+--Program Inititated at 2014-12-10 23:19:21.593956
+INFO:root:
+
+--Program Inititated at 2014-12-10 23:19:28.605171
+INFO:root:Domain request chaff loaded from file
+INFO:root:Direct message 'frankie is a pussy' to be sent
+INFO:root:Sending packet: 
+   ID=26298 
+   checksum=186 
+   target=192.168.1.235 
+	 domain request=www.yelp.com
+INFO:root:Sending packet: 
+   ID=29309 
+   checksum=125 
+   target=192.168.1.235 
+	 domain request=www.google.com
+INFO:root:Sending packet: 
+   ID=24842 
+   checksum=10 
+   target=192.168.1.235 
+	 domain request=www.foxnews.com
+INFO:root:Sending packet: 
+   ID=28227 
+   checksum=67 
+   target=192.168.1.235 
+	 domain request=www.bankofamerica.com
+INFO:root:Sending packet: 
+   ID=27450 
+   checksum=58 
+   target=192.168.1.235 
+	 domain request=www.facebook.com
+INFO:root:Sending packet: 
+   ID=26986 
+   checksum=106 
+   target=192.168.1.235 
+	 domain request=www.blogspot.com
+INFO:root:Sending packet: 
+   ID=26048 
+   checksum=192 
+   target=192.168.1.235 
+	 domain request=www.wikipedia.org
+INFO:root:Sending packet: 
+   ID=8434 
+   checksum=242 
+   target=192.168.1.235 
+	 domain request=www.comcast.net
+INFO:root:Sending packet: 
+   ID=26938 
+   checksum=58 
+   target=192.168.1.235 
+	 domain request=www.facebook.com
+INFO:root:Sending packet: 
+   ID=29459 
+   checksum=19 
+   target=192.168.1.235 
+	 domain request=www.twitter.com
+INFO:root:Sending packet: 
+   ID=8442 
+   checksum=250 
+   target=192.168.1.235 
+	 domain request=www.netflix.com
+INFO:root:Sending packet: 
+   ID=24868 
+   checksum=36 
+   target=192.168.1.235 
+	 domain request=www.imgur.com
+INFO:root:Sending packet: 
+   ID=8246 
+   checksum=54 
+   target=192.168.1.235 
+	 domain request=www.wellsfargo.com
+INFO:root:Sending packet: 
+   ID=28735 
+   checksum=63 
+   target=192.168.1.235 
+	 domain request=www.cnn.com
+INFO:root:Sending packet: 
+   ID=29956 
+   checksum=4 
+   target=192.168.1.235 
+	 domain request=www.chase.com
+INFO:root:Sending packet: 
+   ID=29565 
+   checksum=125 
+   target=192.168.1.235 
+	 domain request=www.newegg.com
+INFO:root:Sending packet: 
+   ID=29575 
+   checksum=135 
+   target=192.168.1.235 
+	 domain request=www.target.com
+INFO:root:Sending packet: 
+   ID=31132 
+   checksum=156 
+   target=192.168.1.235 
+	 domain request=www.imdb.com
+INFO:root:Direct message send complete
+INFO:root:
+
+--Program Inititated at 2014-12-10 23:20:25.597222
+INFO:root:Domain request chaff loaded from file
+INFO:root:Direct message 'frankie is a pussy' to be sent
+WARNING:scapy.runtime:Mac address to reach destination not found. Using broadcast.
+INFO:root:Sending packet: 
+   ID=26326 
+   checksum=214 
+   target=192.168.1.235 
+	 domain request=www.microsoft.com
+WARNING:scapy.runtime:Mac address to reach destination not found. Using broadcast.
+INFO:root:Sending packet: 
+   ID=29340 
+   checksum=156 
+   target=192.168.1.235 
+	 domain request=www.imdb.com
+INFO:root:Sending packet: 
+   ID=24910 
+   checksum=78 
+   target=192.168.1.235 
+	 domain request=www.msn.com
+INFO:root:Sending packet: 
+   ID=28357 
+   checksum=197 
+   target=192.168.1.235 
+	 domain request=www.etsy.com
+INFO:root:Sending packet: 
+   ID=27401 
+   checksum=9 
+   target=192.168.1.235 
+	 domain request=www.nytimes.com
+INFO:root:Sending packet: 
+   ID=27015 
+   checksum=135 
+   target=192.168.1.235 
+	 domain request=www.paypal.com
+INFO:root:Sending packet: 
+   ID=25918 
+   checksum=62 
+   target=192.168.1.235 
+	 domain request=www.craigslist.org
+INFO:root:Sending packet: 
+   ID=8434 
+   checksum=242 
+   target=192.168.1.235 
+	 domain request=www.comcast.net
+INFO:root:Sending packet: 
+   ID=26958 
+   checksum=78 
+   target=192.168.1.235 
+	 domain request=www.msn.com
+INFO:root:Sending packet: 
+   ID=29518 
+   checksum=78 
+   target=192.168.1.235 
+	 domain request=www.linkedin.com
+INFO:root:Sending packet: 
+   ID=8202 
+   checksum=10 
+   target=192.168.1.235 
+	 domain request=www.foxnews.com
+INFO:root:Sending packet: 
+   ID=24864 
+   checksum=32 
+   target=192.168.1.235 
+	 domain request=www.yahoo.com
+INFO:root:Sending packet: 
+   ID=8425 
+   checksum=233 
+   target=192.168.1.235 
+	 domain request=www.wordpress.com
+INFO:root:Sending packet: 
+   ID=28810 
+   checksum=138 
+   target=192.168.1.235 
+	 domain request=www.stackoverflow.com
+INFO:root:Sending packet: 
+   ID=30113 
+   checksum=161 
+   target=192.168.1.235 
+	 domain request=www.ebay.com
+INFO:root:Sending packet: 
+   ID=29458 
+   checksum=18 
+   target=192.168.1.235 
+	 domain request=www.apple.com
+INFO:root:Sending packet: 
+   ID=29694 
+   checksum=254 
+   target=192.168.1.235 
+	 domain request=www.huffingtonpost.com
+INFO:root:Sending packet: 
+   ID=31174 
+   checksum=198 
+   target=192.168.1.235 
+	 domain request=www.instagram.com
+INFO:root:Direct message send complete
